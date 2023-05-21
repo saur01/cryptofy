@@ -64,7 +64,7 @@ Jobify is a job tracking app build with MERN Stack that allows the user to creat
 ### Dashboard Page
 ![7  Dashboard Page](https://github.com/blackhacker09/Jobify/assets/56511978/e5ef393b-a1b3-4272-89b4-52b68d2f5fb9)
 
-### Job Dashboard]
+### Job Dashboard
 ![8  Job Dashboard](https://github.com/blackhacker09/Jobify/assets/56511978/930acf36-f0f3-4f13-b7f4-ec230026d89d)
 
 ### Add Job Dashboard
