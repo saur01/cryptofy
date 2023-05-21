@@ -30,7 +30,15 @@ Jobify is a job tracking app build with MERN Stack that allows the user to creat
  <li> Mark jobs as applied, interviewed, or rejected. </li>
  <li> View detailed information about each job, including its current status and the date it was created. </li>
  <li> Edit or delete existing jobs.</li>
- <li> It is totally responsive for small screens.</li>
+ <li> Responsive design for optimal user experience on small screens.</li>
+ <li>User-friendly profiles for job seekers to update their information.</li>
+ <li>Advanced filtering options for job search, including keywords, location, category, and salary range.</li>
+ <li>Tracking and display of statistics related to job applications, such as pending applications, scheduled interviews, and job declines on dashboard.</li>
+ <li>Visual representations (bar charts, area charts) to present data on the number of jobs applied to in the last six months.</li>
+ <li>"All jobs" section with pagination and search functionality to view details of applied jobs.</li>
+ <li>Sorting options for organizing the job list based on criteria like new, old, or alphabetical order.</li>
+ <li>Intuitive user interface and responsive design for seamless user experience across devices.</li>
+ <li></li>
 </ul>
 
 ## Usage
