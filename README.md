@@ -38,6 +38,7 @@ Jobify is a job tracking app build with MERN Stack that allows the user to creat
  <li>"All jobs" section with pagination and search functionality to view details of applied jobs.</li>
  <li>Sorting options for organizing the job list based on criteria like new, old, or alphabetical order.</li>
  <li>Intuitive user interface and responsive design for seamless user experience across devices.</li>
+ <li>Explore the app without registration by using the Demo App button. Note that certain functionalities may be restricted.</li>
 </ul>
 
 ## Usage
