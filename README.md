@@ -49,6 +49,13 @@ Jobify is a job tracking app build with MERN Stack that allows the user to creat
 | -------- | --------- |
 | TestUser@test.com | secret |
 
+# resourcs used : 
+
+React docs link offical
+Node docs link offical
+Mongodb docs....
+Express...
+
 ## Screenshots :
 
 ### User Home Page
